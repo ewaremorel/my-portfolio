@@ -1,0 +1,1 @@
+module.exports = require("./crud.factory")(require("../models/project.model"), "Project");

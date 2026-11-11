@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+client/node_modules/
+
+# secrets - NEVER commit these
+.env
+client/.env
+.env.local
+
+# build output
+client/build/
+
+# logs and OS files
+*.log
+.DS_Store
