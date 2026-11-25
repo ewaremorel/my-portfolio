@@ -13,3 +13,5 @@ client/build/
 # logs and OS files
 *.log
 .DS_Store
+
+atlas-credentials.env
