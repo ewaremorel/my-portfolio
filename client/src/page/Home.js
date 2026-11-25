@@ -7,9 +7,9 @@ function Home() {
         <div className="hero-copy">
           <p className="eyebrow">Software engineering · AI</p>
           <h1 className="hero-title">Curious by nature.<br />Built to <span>solve.</span></h1>
-          <p className="hero-lead">
-            I’m Eware, a software engineering technology student specializing in AI and building useful web and mobile experiences.
-          </p>
+          <p className="hero-lead" >
+            I’m Eware, a software engineering technology student specializing in AI and building useful web and mobile experiences. This content was updated through a CI/CD deployment pipeline.
+            </p>
           <div className="button-row">
             <Link className="button-link" to="/projects">Explore my work <span aria-hidden="true">↗</span></Link>
             <Link className="button-link secondary" to="/about">More about me</Link>
